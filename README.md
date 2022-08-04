@@ -1,5 +1,5 @@
 # React-ToDo-list
 
-<img src="https://imgur.com/dKTK3x1"
+<img src="./public/todo-empty.png"
 <br>
-<img src="https://imgur.com/TZQ2Ixs"
+<img src="./public/todo-list.png"
