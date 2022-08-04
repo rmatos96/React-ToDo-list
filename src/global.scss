@@ -1,0 +1,26 @@
+:root{
+    --purple: #8284fa;
+    --purple-dark:#5e60ce;
+    --blue:#4EA8DE;
+    --blue-dark:#1e6f9f;
+    
+    --gray700:#0d0d0d;
+    --gray600:#1a1a1a;
+    --gray500:#262626;
+    --gray400:#333333;
+    --gray300:#808080;
+    --gray200:#d9d9d9;
+    --gray100:#f2f2f2;
+    --danger:#e25858;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--gray600);
+    font-family:'Inter', sans-serif;
+}
